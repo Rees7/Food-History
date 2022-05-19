@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Food History</string>
+    <string name="editone">Record</string>
+    <string name="month_out">Monthly Gain</string>
+    <string name="out">Gain</string>
+    <string name="month_in">Monthly Cost</string>
+    <string name="in">Cost</string>
+    <string name="budget">Budget Left</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="see_excel">Diagram</string>
+    <string name="add_remark">Add Note</string>
+    <string name="remark">Not</string>
+    <string name="ensure">Yes</string>
+    <string name="cancel">No</string>
+    <string name="about">About</string>
+    <string name="setting">Config</string>
+    <string name="history_record">Record</string>
+    <string name="account_info">Trend</string>
+    <string name="please_input_time">Enter Time(24 Hours)</string>
+    <string name="please_search_info">Search Here</string>
+    <string name="date_empty">No Records</string>
+    <string name="chart_info">Information</string>
+
+    <string name="about_appinfo">Application Information</string>
+    <string name="about_version">Version</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">About Application</string>
+    <string name="about_balabala">This part is in order to record the food history</string>
+    <string name="about_developer">Yang Jie</string>
+    <string name="about_me">Author</string>
+
+
+
+    <string name="history_info">Monthly Record</string>
+    <string name="clear_all">Clear All Records</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">No History</string>
+</resources>
